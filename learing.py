@@ -32,4 +32,38 @@ Python")
 print("I\
  love \
 Python")
-print('Hello' 'Python')
+print("I finished vid 9 and will start with 10")
+#-----vid 10 summery : Concatenation And Training
+New = "I love"
+msg = " python"
+print(New + msg)
+N = "very \
+nice \
+add "
+W = "WoW"
+print(N +"\n"+ W)
+print("I finished vid 10 and will start with 11")
+#-----vid 11 summery : Strings
+mystringone = 'This is single '
+mystringtwo = "This is double string "
+print(mystringone)
+print(mystringtwo)
+mystringthree = """This 
+is 
+how to make 
+multi lines
+without using \ """
+print(mystringthree)
+mystringfour = "this is 'double'"
+print(mystringfour)
+mystringfive = 'this is "single"'
+print(mystringfive)
+print("I finished vid 11 and will start with vid 12")
+#-----vid 12 summery : Indexing And Slicing
+mystring = "I Love Python"
+print(mystring[0])
+print(mystring[2])
+print(mystring[0:3])
+print(mystring[0:])
+print(mystring[:6])
+print(mystring[2:6])
