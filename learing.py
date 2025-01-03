@@ -67,3 +67,26 @@ print(mystring[0:3])
 print(mystring[0:])
 print(mystring[:6])
 print(mystring[2:6])
+print("I finished vid 12 and will start with vid 13  ")
+# ok you i changed the plan a bit 
+# I will watch a carsh pyhton course 
+print("OK I changed the plan ")
+# here is the link of the crash course I will watch : https://youtu.be/VchuKL44s6E?si=M2JkNTRvZWxRObDB
+L = "To The "
+F = "Moon"
+print(L + F)
+E = "LFG" 
+print(E)
+print (" Hello  what is your name ?")
+name = input(" ")
+print("What is your age ?")
+age = input(" ")
+print("So you name is", name , "and you age is ", age )
+x = 5
+y = 2
+result = 5*2
+print(result)
+result1 = 5**2
+print(result1)
+result2 = 5//2 
+print(result2)
